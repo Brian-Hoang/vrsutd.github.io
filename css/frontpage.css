@@ -34,12 +34,16 @@ footer{
     width: 100%;
     text-align: left;
     font: bold 16px sans-serif;
-	position: fixed;
+
 	height: 200px;
 	
 	border-top-style:solid;
 	border-top-width:2px;
 	border-top-color:#194D85;
+	
+	border-bottom-style:solid;
+	border-bottom-width:2px;
+	border-bottom-color:#194D85;
 
     padding: 55px 50px;
     margin-top: 80px;
@@ -296,8 +300,8 @@ footer{
 .img-center {
     margin: 0 auto;
 }
-.about{
-	padding-top: 150px;
+.about-container{
+	padding-top: 30px;
 }
 
 a{color:#3EC7D6;}
