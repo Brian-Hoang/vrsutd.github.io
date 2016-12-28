@@ -42,6 +42,10 @@ body {
 	font-weight: bold;
 }
 
+.divider{
+	margin-bottom: 140px;
+}
+
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .navbar-custom {
