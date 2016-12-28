@@ -3,9 +3,6 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
- body{
-	background-color: #474747;
- }
  
  p{
  color:white;
@@ -144,3 +141,8 @@ body {
 }
 
 a{color:#3EC7D6;}
+
+ body{
+	background-color: #474747;
+	margin-bottom: 150px;
+ }
